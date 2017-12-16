@@ -1,0 +1,7 @@
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\bin\Debug\AppPersonneDesignPatternDAO.exe.config
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\bin\Debug\AppPersonneDesignPatternDAO.exe
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\bin\Debug\AppPersonneDesignPatternDAO.pdb
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\obj\Debug\AppPersonneDesignPatternDAO.csprojResolveAssemblyReference.cache
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\obj\Debug\AppPersonneDesignPatternDAO.csproj.CoreCompileInputs.cache
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\obj\Debug\AppPersonneDesignPatternDAO.exe
+d:\Users\Sarah\Documents\Cours IMIE\2nd year\Week 2 - C-sharp\AppPersonneDesignPatternDAO\AppPersonneDesignPatternDAO\obj\Debug\AppPersonneDesignPatternDAO.pdb
